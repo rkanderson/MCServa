@@ -1,0 +1,23 @@
+{
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2018-06-16 20:46:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2018-06-16 20:46:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2018-06-15 18:21:33 -0700",
+      "forest_hills": "2018-06-15 18:06:43 -0700",
+      "plains": "2018-06-15 21:46:38 -0700",
+      "extreme_hills": "2018-06-16 20:47:05 -0700"
+    },
+    "done": false
+  }
+}

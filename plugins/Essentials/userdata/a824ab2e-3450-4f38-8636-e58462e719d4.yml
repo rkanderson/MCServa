@@ -1,0 +1,22 @@
+lastAccountName: hissing_snacks
+timestamps:
+  login: 1529207887720
+  lastteleport: 1529207241099
+  logout: 1529124795460
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world_nether
+  x: -0.5
+  y: 67.0
+  z: 21.5
+  yaw: 0.0
+  pitch: 0.0
+godmode: false
+logoutlocation:
+  world: ASkyBlock
+  x: 0.42614995260328764
+  y: 120.875
+  z: 2.0996785548781656
+  yaw: -341.55054
+  pitch: 23.099968
+afk: true
